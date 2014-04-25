@@ -1,0 +1,25 @@
+html,body {background:#EDEDED url(/myimages/one/msfp_bg2.jpg) repeat-x top;font-size: 12px;FONT-FAMILY: "ËÎÌו",tahoma,arial;text-align:center;padding:0;margin:0 0 0 0;float:center;SCROLLBAR-HIGHLIGHT-COLOR: buttonface; SCROLLBAR-SHADOW-COLOR: buttonface; SCROLLBAR-3DLIGHT-COLOR: buttonhighlight; SCROLLBAR-TRACK-COLOR: #eeeeee; SCROLLBAR-DARKSHADOW-COLOR: buttonshadow;WIDTH: expression((documentElement.clientWidth < 1004) ? "1004px":"auto"); min-width: 1004px;}
+h1, h2, h3, h4, h5, h6, form, div, p, i, img, ul, li, ol, table, tr, td,th, fieldset, label, legend,button,input { margin:0px;padding:0px;}
+table,td,th{font-size: 12px;}
+li{list-style:none;}
+a img{border:none;}
+a:link{text-decoration:none;color:#003CC8;}
+a:visited{text-decoration:none;color:#003CC8;}
+a:active,a:hover{text-decoration:underline;color:#FF6600;}
+
+.allhead{margin:0px 0px 3px 0px;background: url(/myimages/1/topback.gif) no-repeat 85%;background-color:#4e6a80;}
+.topdh{background-color:#4e6a80;background: url(/myimages/1/topdh.gif);width:218px;height:25px;}
+.out{color:#fff;}
+#topmenu{width:600px;height:30px;margin:0px 0px 0px 8px;}
+#topmenuul{width:600px;height:30px;margin:0px 0px 0px 0px;}
+.topmenuli{float:left;width:90px;height:26px;background: url(/myimages/1/button.gif) no-repeat 0px 0px;line-height:25px;vertical-align:middle;text-align: center;}
+.topmenuli156{float:left;width:156px;height:26px;background: url(/myimages/1/button2.gif) no-repeat 0px 0px;line-height:25px;vertical-align:middle;text-align: center;}
+.websitename{font-size:15px;font-weight:bold;color:#cad5de;"}
+
+#leftmenu{background-color:#00000;color:#000;width:118px;border-top:1px solid #999999;height:300px;margin:0px 0px 0px 0px;}
+#leftmenuul{width:118px;}
+.leftmenuli{float:left;width:118px;border-bottom:1px solid #CFCFCB;background-color:#e8e9eb;background: url(/myimages/1/left_icon.gif) no-repeat 10px 5px;}
+
+
+
+
